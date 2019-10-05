@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7170" started-at="2019-10-04T22:51:27Z" finished-at="2019-10-04T22:51:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7170" started-at="2019-10-04T22:51:27Z" finished-at="2019-10-04T22:51:34Z">
+      <class name="PokeAPI.PokeAPI.PokeAPI">
+        <test-method status="PASS" signature="pokeByID()[pri:0, instance:PokeAPI.PokeAPI.PokeAPI@31e5415e]" name="pokeByID" duration-ms="6247" started-at="2019-10-04T22:51:27Z" finished-at="2019-10-04T22:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pokeByID -->
+        <test-method status="PASS" signature="pokeByName()[pri:0, instance:PokeAPI.PokeAPI.PokeAPI@31e5415e]" name="pokeByName" duration-ms="421" started-at="2019-10-04T22:51:33Z" finished-at="2019-10-04T22:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pokeByName -->
+        <test-method status="PASS" signature="pokePaginatioin()[pri:0, instance:PokeAPI.PokeAPI.PokeAPI@31e5415e]" name="pokePaginatioin" duration-ms="434" started-at="2019-10-04T22:51:33Z" finished-at="2019-10-04T22:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pokePaginatioin -->
+      </class> <!-- PokeAPI.PokeAPI.PokeAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
